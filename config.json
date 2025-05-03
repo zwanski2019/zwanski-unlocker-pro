@@ -1,0 +1,18 @@
+{
+    "app_name": "Zwanski FRP Unlocker Pro",
+    "version": "1.0.0",
+    "theme": {
+        "primary_color": "#2196F3",
+        "secondary_color": "#1976D2",
+        "text_color": "#333333",
+        "background_color": "#f0f0f0"
+    },
+    "logging": {
+        "level": "INFO",
+        "file": "unlocker.log"
+    },
+    "updates": {
+        "check_on_startup": true,
+        "update_url": "https://api.example.com/updates"
+    }
+}

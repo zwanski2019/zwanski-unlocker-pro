@@ -1,0 +1,10 @@
+   Make sure to extract the entire contents of the platform-tools zip, as there are additional DLL files and dependencies needed for proper operation.
+
+3. The samsung_plugin.py error can be ignored for now as it's just indicating that the Samsung-specific plugin is not available.
+
+After making these changes:
+1. Restart the application
+2. The screenshot functionality and device detection should work properly
+3. Make sure your Android device is connected and USB debugging is enabled
+
+If you still see fastboot errors after placing the complete platform-tools contents in the correct directory, make sure the files have the correct permissions and are not being blocked by Windows security.

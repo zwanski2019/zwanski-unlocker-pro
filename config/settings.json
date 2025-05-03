@@ -1,0 +1,7 @@
+{
+    "language": "English",
+    "theme": "Dark",
+    "auto_update": true,
+    "debug": false,
+    "adb_path": "adb.exe"
+}

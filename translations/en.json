@@ -1,0 +1,12 @@
+{
+    "app_title": "Zwanski FRP Unlocker Pro",
+    "no_device": "No device detected",
+    "detect_devices": "Detect Devices",
+    "run_exploit": "Run Exploit",
+    "backup_device": "Backup Device",
+    "restore_backup": "Restore Backup",
+    "backup_started": "Starting device backup...",
+    "backup_completed": "Backup completed successfully",
+    "restore_started": "Starting backup restoration...",
+    "restore_completed": "Restore completed successfully"
+}

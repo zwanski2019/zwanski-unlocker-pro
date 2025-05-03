@@ -1,0 +1,2 @@
+.venv\Scripts\python.exe: The module '.venv' could not be loaded. For more information, run 'Import-Module .venv'.
+.venv\Scripts\pip.exe: The module '.venv' could not be loaded. For more information, run 'Import-Module .venv'.

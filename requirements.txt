@@ -1,0 +1,16 @@
+PyQt5>=5.15.0
+requests>=2.25.1
+packaging>=20.0
+pyinstaller>=4.5.0
+
+
+- Script Location: Select `main.py` as your entry point
+- One Directory (recommended for this project)
+- Additional Files/Folders to include:
+  - `core/`
+  - `gui/`
+  - `utils/`
+  - `translations/`
+  - `config/`
+  - `tools/`
+  - `requirements.txt`

@@ -1,0 +1,10 @@
+   c. Extract the downloaded platform-tools zip and copy `adb.exe` and `fastboot.exe` to this directory
+
+After making these changes:
+1. Restart the application
+2. Make sure your Android device is:
+   - Connected via USB
+   - Has USB debugging enabled
+   - Shows the "Allow USB debugging" prompt on the device
+
+The device detection should work properly after these fixes.
